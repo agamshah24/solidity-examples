@@ -35,5 +35,4 @@ contract StructExample {
         myFamily.push(newFamily);
         return true;
     }
-
 }
