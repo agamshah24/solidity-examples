@@ -46,5 +46,4 @@ contract FunctionExample {
         // 2nd way define the return variable in returns above and just set the value
         age = ownerAge;
     }
-
 }
